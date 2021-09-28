@@ -11,6 +11,7 @@
 		3B79C7AA2702FD5500DCC849 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B79C7A92702FD5500DCC849 /* ContentView.swift */; };
 		3B79C7AC2702FD5600DCC849 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B79C7AB2702FD5600DCC849 /* Assets.xcassets */; };
 		3B79C7AF2702FD5600DCC849 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B79C7AE2702FD5600DCC849 /* Preview Assets.xcassets */; };
+		3B79C7B62702FD8300DCC849 /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B79C7B52702FD8300DCC849 /* ViewModelBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3B79C7A92702FD5500DCC849 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3B79C7AB2702FD5600DCC849 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B79C7AE2702FD5600DCC849 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3B79C7B52702FD8300DCC849 /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3B79C7A72702FD5500DCC849 /* SwiftConceptsApp.swift */,
 				3B79C7A92702FD5500DCC849 /* ContentView.swift */,
+				3B79C7B52702FD8300DCC849 /* ViewModelBootcamp.swift */,
 				3B79C7AB2702FD5600DCC849 /* Assets.xcassets */,
 				3B79C7AD2702FD5600DCC849 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B79C7AA2702FD5500DCC849 /* ContentView.swift in Sources */,
+				3B79C7B62702FD8300DCC849 /* ViewModelBootcamp.swift in Sources */,
 				3B79C7A82702FD5500DCC849 /* SwiftConceptsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
